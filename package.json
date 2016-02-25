@@ -1,0 +1,30 @@
+{
+  "name": "draft-js-editor",
+  "version": "1.0.0",
+  "description": "Walkthrough of Draft.js overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newswim/draft-js-editor.git"
+  },
+  "keywords": [
+    "draftjs",
+    "react",
+    "newswim",
+    "noob"
+  ],
+  "author": "Daniel Minshew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/newswim/draft-js-editor/issues"
+  },
+  "homepage": "https://github.com/newswim/draft-js-editor#readme",
+  "dependencies": {
+    "draft-js": "0.1.0",
+    "react": "0.14.7",
+    "react-dom": "0.14.7"
+  }
+}
